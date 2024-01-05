@@ -1,2 +1,2 @@
 # Football-Foul-Detection
-Detecting Foul from Football matches Images, Video, RTSP, YouTube 
+Detecting Foul from Football matches Images, Videos, RTSP, YouTube 
